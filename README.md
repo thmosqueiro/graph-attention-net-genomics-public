@@ -3,8 +3,8 @@
 This repository will contain the primary materials used for the UCSD Capstone project on Graph-Attentional Neural Networks
 
 ## Classes
-* [Introduction to Pytorch](https://github.com/thmosqueiro/graph-attention-net-genomics-public/blob/main/notebooks/Chapter%201%20-%20Pytorch%20Intro.ipynb)
-* [Convolutional Neural Nets](.)
+* [Weekly Assignment #1 - Introduction to Pytorch](https://github.com/thmosqueiro/graph-attention-net-genomics-public/blob/main/notebooks/Chapter%201%20-%20Pytorch%20Intro.ipynb) - Due date: Tuesday, 10/8 11:59 PM PST.
+* [Next Weekly Assigment](.)
 
 ## Grading
 
