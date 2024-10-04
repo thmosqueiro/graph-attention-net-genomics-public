@@ -4,7 +4,7 @@ This repository will contain the primary materials used for the UCSD Capstone pr
 
 ## Classes
 * [Weekly Assignment #1 - Introduction to Pytorch](https://github.com/thmosqueiro/graph-attention-net-genomics-public/blob/main/notebooks/Chapter%201%20-%20Pytorch%20Intro.ipynb) - Due date: Tuesday, 10/8 11:59 PM PST.
-* [Part 1](https://github.com/thmosqueiro/graph-attention-net-genomics-public/blob/main/notebooks/Implementing%20a%20Graph%20Convolutional%20Network%20(GCN).ipynb) and [Part 2](https://github.com/thmosqueiro/graph-attention-net-genomics-public/blob/main/notebooks/Implementing%20a%20Random%20Walk-based%20GNN%20(Node2Vec).ipynb) - Due date: Thursday 10/10 11:59 PM PST.
+* Assignment 2: [Part 1](https://github.com/thmosqueiro/graph-attention-net-genomics-public/blob/main/notebooks/Implementing%20a%20Graph%20Convolutional%20Network%20(GCN).ipynb) and [Part 2](https://github.com/thmosqueiro/graph-attention-net-genomics-public/blob/main/notebooks/Implementing%20a%20Random%20Walk-based%20GNN%20(Node2Vec).ipynb) - Due date: Thursday 10/10 11:59 PM PST.
 
 * 
 
