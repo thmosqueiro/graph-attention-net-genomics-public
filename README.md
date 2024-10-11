@@ -1,5 +1,9 @@
 # UCSD Capstone Project - Graph-Attention Neural Networks for Genomics
 
+![Static Badge](https://img.shields.io/badge/Educational-Repo-blue)
+
+Course created by [Utkrisht Rajkumar](https://github.com/ucrajkumar), [Thiago Mosqueiro](https://github.com/thmosqueiro), [Misha Belkin](http://misha.belkin-wang.org/)
+
 This repository will contain the primary materials used for the UCSD Capstone project on Graph-Attentional Neural Networks
 
 ## Classes
